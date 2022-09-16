@@ -1,0 +1,20 @@
+.container {
+  background-color: #acacac;
+}
+.ulStyle {
+  display: flex;
+  list-style: none;
+}
+.ulStyle li {
+  padding: 20px;
+  font-size: 1.2rem;
+  color: #fff;
+}
+.ulStyle li a {
+  color:#fff;
+  text-decoration: none;
+}
+.ulStyle li a:hover {
+  color: #d1d1d1;
+  cursor: pointer;
+}

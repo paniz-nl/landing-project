@@ -1,0 +1,7 @@
+.container{
+    display:flex;
+    margin: 150px 0 50px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    min-height: 100vh;
+}

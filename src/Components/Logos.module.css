@@ -1,0 +1,19 @@
+
+.container p{
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(110, 110, 110);
+    margin: 50px;
+}
+
+.container div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+}
+.container img{
+    width: 300px;
+}

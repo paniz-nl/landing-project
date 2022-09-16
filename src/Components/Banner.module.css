@@ -1,0 +1,30 @@
+.container img {
+  width: 100%;
+  height: 600px;
+  
+
+}
+.container {
+  width: 100%;
+  position: relative;
+}
+.type {
+  position: absolute;
+  top: 350px;
+  left: 50px;
+  color: #6e6e6e;
+}
+
+.type h1{
+    
+    font-size: 5rem;
+}
+.type p{
+     
+    font-size: 2.5rem;
+
+}
+.type p span{
+    color: #3299fa;
+    font-weight: bold;
+}
